@@ -1,0 +1,33 @@
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Student object at 0x7f4c3a7e5370>, 'Антон', 'Антоныч', 'муж'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Student object at 0x7f4c3a7e5310>, 'Андрей', 'Андреич', 'муж'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e52e0>, 'Иван', 'Иваныч'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e52e0>, 'Иван', 'Иваныч'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e5280>, 'Максим', 'Максимыч'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e5280>, 'Максим', 'Максимыч'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e5220>, 'Василий', 'Васильевич'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: __init__>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e51c0>, 'Михал', 'Михалыч'){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e5220>, <__main__.Student object at 0x7f4c3a7e5370>, 'Python', 5){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e5220>, <__main__.Student object at 0x7f4c3a7e5370>, 'Python', 10){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e5220>, <__main__.Student object at 0x7f4c3a7e5310>, 'Python', 3){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e5220>, <__main__.Student object at 0x7f4c3a7e5310>, 'Python', 10){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e51c0>, <__main__.Student object at 0x7f4c3a7e5370>, 'Git', 6){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e51c0>, <__main__.Student object at 0x7f4c3a7e5370>, 'Git', 10){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e51c0>, <__main__.Student object at 0x7f4c3a7e5310>, 'Git', 5){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_hw>*<arguments: (<__main__.Reviewer object at 0x7f4c3a7e51c0>, <__main__.Student object at 0x7f4c3a7e5310>, 'Git', 10){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_lecturer>*<arguments: (<__main__.Student object at 0x7f4c3a7e5370>, <__main__.Lecturer object at 0x7f4c3a7e52e0>, 'Python', 10){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_lecturer>*<arguments: (<__main__.Student object at 0x7f4c3a7e5370>, <__main__.Lecturer object at 0x7f4c3a7e5280>, 'Git', 8){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_lecturer>*<arguments: (<__main__.Student object at 0x7f4c3a7e5310>, <__main__.Lecturer object at 0x7f4c3a7e52e0>, 'Python', 8){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: rate_lecturer>*<arguments: (<__main__.Student object at 0x7f4c3a7e5310>, <__main__.Lecturer object at 0x7f4c3a7e5280>, 'Git', 9){}>*<function output: None>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Student object at 0x7f4c3a7e5370>,){}>*<function output: 7.75>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Student object at 0x7f4c3a7e5310>,){}>*<function output: 7.0>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e52e0>,){}>*<function output: 9.0>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e5280>,){}>*<function output: 8.5>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Student object at 0x7f4c3a7e5370>,){}>*<function output: 7.75>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Student object at 0x7f4c3a7e5310>,){}>*<function output: 7.0>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e5280>,){}>*<function output: 8.5>
+27/03/2022*23:57:03*<name_function: _average_raiting>*<arguments: (<__main__.Lecturer object at 0x7f4c3a7e52e0>,){}>*<function output: 9.0>
+27/03/2022*23:57:03*<name_function: avg_by_students_on_course>*<arguments: ([<__main__.Student object at 0x7f4c3a7e5370>, <__main__.Student object at 0x7f4c3a7e5310>], 'Python'){}>*<function output: 7.0>
+27/03/2022*23:57:03*<name_function: avg_by_students_on_course>*<arguments: ([<__main__.Student object at 0x7f4c3a7e5370>, <__main__.Student object at 0x7f4c3a7e5310>], 'Git'){}>*<function output: 7.75>
+27/03/2022*23:57:03*<name_function: avg_by_students_on_course>*<arguments: ([<__main__.Student object at 0x7f4c3a7e5370>, <__main__.Student object at 0x7f4c3a7e5310>], 'Введение в программирование'){}>*<function output: 0>
+27/03/2022*23:57:03*<name_function: avg_by_lecturers_on_course>*<arguments: ([<__main__.Lecturer object at 0x7f4c3a7e52e0>, <__main__.Lecturer object at 0x7f4c3a7e5280>], 'Python'){}>*<function output: 9.0>
+27/03/2022*23:57:03*<name_function: avg_by_lecturers_on_course>*<arguments: ([<__main__.Lecturer object at 0x7f4c3a7e52e0>, <__main__.Lecturer object at 0x7f4c3a7e5280>], 'Git'){}>*<function output: 8.5>
